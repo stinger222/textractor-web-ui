@@ -21,6 +21,9 @@ If all goes according to plan, your Textractor with the websocket extension shou
 ## Features
 Just one for now: all messages stored in the LS. You can clear them using context menu 
 
+## Issues
+I built this UI for myself, so I didn’t really bother with polishing, bug hunting, writing detailed instructions and stuff. No clue if anyone will ever stumble across it and try to run it. If it doesn’t work for you and you're not up for forking and fixing it, feel free to open an issue — I’ll either fix it or at least share some thoughts.
+
 ## Development
 ```shell
 cd textractor-web-ui
