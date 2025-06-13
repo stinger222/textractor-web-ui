@@ -16,8 +16,7 @@ npm i
 npm run dev
 ```
 This will start a dev server on http://localhost:3000.
-If all goes according to plan, your Textractor with the websocket extension should be running by then and ready to send messages on port 6677. Trigger new message and expect it to appear on the screen
-5) Enjoy
+If all goes according to plan, your Textractor with the websocket extension should be running by then and ready to send messages on port 6677. Trigger new message and expect it to appear on the screen. Enjoy!
 
 ## Features
 Just one for now: all messages stored in the LS. You can clear them using context menu 
