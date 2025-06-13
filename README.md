@@ -2,9 +2,7 @@
 
 A simple frontend app that reads messages from Textractor using the web_socket extension and displays them in your browser to use with Yomitan or Yomichan.
 
-![image](https://github.com/user-attachments/assets/7e064c9b-16bb-4789-859b-565f71a5c668)
-
-
+![image](https://github.com/user-attachments/assets/edb4532c-b36c-46d9-baee-115b3a3eb90c)
 
 ## How to use
 
